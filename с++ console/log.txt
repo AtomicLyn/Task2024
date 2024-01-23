@@ -1,0 +1,96 @@
+Date: 23.1.2024 | Time: 5:24:26 | EventId: 2 | Param1: 4
+Date: 23.1.2024 | Time: 5:24:27 | EventId: 2 | Param1: 8
+Date: 23.1.2024 | Time: 5:24:27 | EventId: 2 | Param1: 5
+Date: 23.1.2024 | Time: 5:24:28 | EventId: 2 | Param1: 1
+Date: 23.1.2024 | Time: 5:24:28 | EventId: 2 | Param1: 7
+Date: 23.1.2024 | Time: 5:24:29 | EventId: 2 | Param1: 2
+Date: 23.1.2024 | Time: 5:24:29 | EventId: 2 | Param1: 1
+Date: 23.1.2024 | Time: 5:24:30 | EventId: 2 | Param1: 7
+Date: 23.1.2024 | Time: 5:24:31 | EventId: 2 | Param1: 9
+Date: 23.1.2024 | Time: 5:24:32 | EventId: 2 | Param1: 5
+Date: 23.1.2024 | Time: 5:24:33 | EventId: 2 | Param1: 2
+Date: 23.1.2024 | Time: 5:24:33 | EventId: 2 | Param1: 1
+Date: 23.1.2024 | Time: 5:24:34 | EventId: 2 | Param1: 7
+Time: 5:24:35 | EventId: 2
+Time: 5:24:36 | EventId: 2
+Time: 5:24:37 | EventId: 2
+Time: 5:24:37 | EventId: 2
+Time: 5:24:39 | EventId: 2
+Time: 5:24:39 | EventId: 2
+Time: 5:24:40 | EventId: 2
+Time: 5:24:40 | EventId: 2
+Time: 5:24:40 | EventId: 2
+Time: 5:24:40 | EventId: 2
+Time: 5:24:40 | EventId: 2
+Time: 5:24:40 | EventId: 2
+Time: 5:24:41 | EventId: 2
+Time: 5:24:41 | EventId: 2
+Time: 5:24:41 | EventId: 2
+Time: 5:24:41 | EventId: 2
+Time: 5:24:41 | EventId: 2
+Time: 5:24:41 | EventId: 2
+Time: 5:24:41 | EventId: 2
+Time: 5:24:42 | EventId: 2
+Time: 5:24:42 | EventId: 2
+Time: 5:24:42 | EventId: 2
+Time: 5:24:42 | EventId: 2
+Time: 5:24:42 | EventId: 2
+Time: 5:24:42 | EventId: 2
+Time: 5:24:43 | EventId: 2
+Time: 5:24:43 | EventId: 2
+Time: 5:24:43 | EventId: 2
+Time: 5:24:43 | EventId: 2
+Time: 5:24:43 | EventId: 2
+Time: 5:24:43 | EventId: 2
+Time: 5:24:43 | EventId: 2
+Date: 23.1.2024 | Time: 5:24:44 | EventId: 2 | Param1: 3 | Param2: 4 | Param3: 1
+Date: 23.1.2024 | Time: 5:24:44 | EventId: 2 | Param1: 0 | Param2: 8 | Param3: 8
+Date: 23.1.2024 | Time: 5:24:44 | EventId: 2 | Param1: 8 | Param2: 7 | Param3: 7
+Date: 23.1.2024 | Time: 5:24:44 | EventId: 2 | Param1: 7 | Param2: 3 | Param3: 8
+Date: 23.1.2024 | Time: 5:24:44 | EventId: 2 | Param1: 3 | Param2: 7 | Param3: 0
+Date: 23.1.2024 | Time: 5:24:45 | EventId: 2 | Param1: 5 | Param2: 6 | Param3: 9
+Date: 23.1.2024 | Time: 5:24:45 | EventId: 2 | Param1: 9 | Param2: 9 | Param3: 0
+Date: 23.1.2024 | Time: 5:24:45 | EventId: 2 | Param1: 4 | Param2: 3 | Param3: 8
+Date: 23.1.2024 | Time: 5:24:45 | EventId: 2 | Param1: 9 | Param2: 9 | Param3: 4
+Date: 23.1.2024 | Time: 5:24:45 | EventId: 2 | Param1: 3 | Param2: 5 | Param3: 5
+Date: 23.1.2024 | Time: 5:24:45 | EventId: 2 | Param1: 4 | Param2: 7 | Param3: 3
+Date: 23.1.2024 | Time: 5:24:45 | EventId: 2 | Param1: 8 | Param2: 0 | Param3: 8
+Date: 23.1.2024 | Time: 5:24:45 | EventId: 2 | Param1: 8 | Param2: 6 | Param3: 0
+Date: 23.1.2024 | Time: 5:24:46 | EventId: 2 | Param1: 9 | Param2: 8 | Param3: 9
+Date: 23.1.2024 | Time: 5:24:46 | EventId: 2 | Param1: 8 | Param2: 2 | Param3: 2
+Date: 23.1.2024 | Time: 5:24:46 | EventId: 2 | Param1: 0 | Param2: 9 | Param3: 8
+Date: 23.1.2024 | Time: 5:24:46 | EventId: 2 | Param1: 5 | Param2: 1 | Param3: 8
+Date: 23.1.2024 | Time: 5:24:46 | EventId: 2 | Param1: 2 | Param2: 1 | Param3: 6
+Date: 23.1.2024 | Time: 5:24:47 | EventId: 2 | Param1: 8 | Param2: 5 | Param3: 2
+Date: 23.1.2024 | Time: 5:24:47 | EventId: 2 | Param1: 5 | Param2: 6 | Param3: 2
+Date: 23.1.2024 | Time: 5:24:47 | EventId: 2 | Param1: 4 | Param2: 2 | Param3: 9
+Date: 23.1.2024 | Time: 5:24:47 | EventId: 2 | Param1: 2 | Param2: 8 | Param3: 1
+Date: 23.1.2024 | Time: 5:24:47 | EventId: 2 | Param1: 7 | Param2: 9 | Param3: 1
+Date: 23.1.2024 | Time: 5:24:47 | EventId: 2 | Param1: 5 | Param2: 9 | Param3: 2
+Date: 23.1.2024 | Time: 5:24:47 | EventId: 2 | Param1: 3 | Param2: 0 | Param3: 0
+Date: 23.1.2024 | Time: 5:24:48 | EventId: 2 | Param1: 1 | Param2: 8 | Param3: 1
+Date: 23.1.2024 | Time: 5:24:48 | EventId: 2 | Param1: 2 | Param2: 3 | Param3: 5
+Date: 23.1.2024 | Time: 5:24:48 | EventId: 2 | Param1: 8 | Param2: 5 | Param3: 2
+Date: 23.1.2024 | Time: 5:24:48 | EventId: 2 | Param1: 2 | Param2: 7 | Param3: 7
+Date: 23.1.2024 | Time: 5:24:48 | EventId: 2 | Param1: 1 | Param2: 4 | Param3: 9
+Date: 23.1.2024 | Time: 5:24:48 | EventId: 2 | Param1: 8 | Param2: 9 | Param3: 6
+Date: 23.1.2024 | Time: 5:24:49 | EventId: 2 | Param1: 4 | Param2: 5 | Param3: 5
+Date: 23.1.2024 | Time: 5:24:49 | EventId: 2 | Param1: 5 | Param2: 2 | Param3: 1
+Date: 23.1.2024 | Time: 5:24:49 | EventId: 2 | Param1: 9 | Param2: 3 | Param3: 8
+Date: 23.1.2024 | Time: 5:24:49 | EventId: 2 | Param1: 7 | Param2: 6 | Param3: 9
+Date: 23.1.2024 | Time: 5:24:49 | EventId: 2 | Param1: 6 | Param2: 7 | Param3: 9
+Date: 23.1.2024 | Time: 5:24:49 | EventId: 2 | Param1: 7 | Param2: 5 | Param3: 3
+Date: 23.1.2024 | Time: 5:24:49 | EventId: 2 | Param1: 8 | Param2: 5 | Param3: 6
+Date: 23.1.2024 | Time: 5:24:50 | EventId: 2 | Param1: 4 | Param2: 4 | Param3: 5
+Date: 23.1.2024 | Time: 5:24:50 | EventId: 2 | Param1: 6 | Param2: 1 | Param3: 6
+Date: 23.1.2024 | Time: 5:24:50 | EventId: 2 | Param1: 5 | Param2: 5 | Param3: 3
+Date: 23.1.2024 | Time: 5:24:51 | EventId: 2 | Param1: 2 | Param2: 8 | Param3: 2
+Date: 23.1.2024 | Time: 5:24:53 | EventId: 2 | Param1: 1 | Param2: 6 | Param3: 3
+Date: 23.1.2024 | Time: 5:24:54 | EventId: 2 | Param1: 1 | Param2: 2 | Param3: 6
+Date: 23.1.2024 | Time: 5:25:16 | EventId: 2 | Param1: 2 | Param2: 4 | Param3: 3
+Date: 23.1.2024 | Time: 5:25:16 | EventId: 2 | Param1: 5 | Param2: 7 | Param3: 8
+Date: 23.1.2024 | Time: 5:25:18 | EventId: 2 | Param1: 5 | Param2: 2 | Param3: 1
+Date: 23.1.2024 | Time: 5:25:19 | EventId: 2 | Param1: 4 | Param2: 4 | Param3: 4
+Date: 23.1.2024 | Time: 5:25:21 | EventId: 2 | Param1: 9 | Param2: 2 | Param3: 4
+Date: 23.1.2024 | Time: 5:25:23 | EventId: 2 | Param1: 7 | Param2: 7 | Param3: 0
+Date: 23.1.2024 | Time: 5:25:24 | EventId: 2 | Param1: 0 | Param2: 3 | Param3: 7
