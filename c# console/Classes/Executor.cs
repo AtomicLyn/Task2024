@@ -31,17 +31,10 @@ namespace CSharpConsoleApplication.Classes
 
         double[] ToArgs(string args)
         {
-            string[] argsSplit = args.Split(" ");
-            List<double> argsResult = new List<double>();
-            foreach(string arg in argsSplit)
-            {
-                try {
-                    argsResult.Add(Convert.ToDouble(arg));
-                }
-                catch { }
-            }
-            return argsResult.ToArray();
-            
+            string pattern = @"^\d+[,\d]+$";
+            List<string> argsSplit = args.Split(" ").Where(arg => Regex.IsMatch(arg, pattern)).ToList();
+            double[] argsResult = argsSplit.Select(arg => Convert.ToDouble(arg)).ToArray();
+            return argsResult;             
         }
         public double Execute(string opStr, string argsStr)
         {
